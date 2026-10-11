@@ -20,6 +20,8 @@ location: "Burkina Faso 🇧🇫"
 field: "Informatique et développement logiciel"
 ```
 
+> Je m'intéresse particulièrement au développement logiciel, aux applications web et aux technologies qui permettent de résoudre des problèmes du quotidien.
+
 ---
 
 ## 🛠️ Technologies & Outils
@@ -32,37 +34,7 @@ field: "Informatique et développement logiciel"
 
 ---
 
-## 🚀 Mes Projets Réalisés
-
-<div align="center">
-
-<!-- Carte Projet 1 : Health-Tracker -->
-<a href="https://github.com/farida-garane/Health-_Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=Health-_Tracker&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Health Tracker" />
-</a>
-&nbsp;
-<!-- Carte Projet 2 : farmGate -->
-<a href="https://github.com/farida-garane/farmGate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=farmGate&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="farmGate" />
-</a>
-
-<br/><br/>
-
-<!-- Carte Projet 3 : api_blog -->
-<a href="https://github.com/farida-garane/api_blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=api_blog&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="API Blog" />
-</a>
-&nbsp;
-<!-- Carte Projet 4 : CityReport -->
-<a href="https://github.com/farida-garane/CityReport">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=CityReport&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="CityReport" />
-</a>
-
-</div>
-
----
-
-## 📊 Langages les plus utilisés sur mes projets
+## 📊 Langages les plus utilisés
 
 <div align="center">
 
@@ -80,17 +52,8 @@ field: "Informatique et développement logiciel"
   <img height="28" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="garanefaridaannekevine@gmail.com">
+<a href="mailto:ton-email@example.com">
   <img height="28" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Vague de fin -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Bannière de fin" />
 
 </div>
