@@ -32,16 +32,41 @@ field: "Informatique et développement logiciel"
 
 ---
 
-## 🎮 Activité & Contributions
+## 🚀 Mes Projets Réalisés
 
 <div align="center">
 
-<!-- Animation Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farida-garane/farida-garane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farida-garane/farida-garane/output/github-contribution-grid-snake.svg">
-  <img alt="Animation du serpent des contributions" src="https://raw.githubusercontent.com/farida-garane/farida-garane/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Carte Projet 1 : Health-Tracker -->
+<a href="https://github.com/farida-garane/Health-_Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=Health-_Tracker&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Health Tracker" />
+</a>
+&nbsp;
+<!-- Carte Projet 2 : farmGate -->
+<a href="https://github.com/farida-garane/farmGate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=farmGate&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="farmGate" />
+</a>
+
+<br/><br/>
+
+<!-- Carte Projet 3 : api_blog -->
+<a href="https://github.com/farida-garane/api_blog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=api_blog&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="API Blog" />
+</a>
+&nbsp;
+<!-- Carte Projet 4 : CityReport -->
+<a href="https://github.com/farida-garane/CityReport">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farida-garane&repo=CityReport&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="CityReport" />
+</a>
+
+</div>
+
+---
+
+## 📊 Langages les plus utilisés sur mes projets
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farida-garane&layout=donut&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Langages réels sur mes dépôts" />
 
 </div>
 
@@ -55,7 +80,7 @@ field: "Informatique et développement logiciel"
   <img height="28" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:ton-email@example.com">
+<a href="garanefaridaannekevine@gmail.com">
   <img height="28" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
