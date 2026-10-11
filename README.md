@@ -15,13 +15,13 @@
 ## 👩‍💻 À propos de moi
 
 ```yaml
-name: "Farida Garane"
+name: "GARANE Farida Anne Kevine"
 location: "Burkina Faso 🇧🇫"
 field: "Informatique et développement logiciel"
 ```
 
-> Je m'intéresse particulièrement au développement logiciel, aux applications web et aux technologies qui permettent de résoudre des problèmes du quotidien.
-
+> J’aime apprendre de nouvelles technologies et développer des applications.
+Je m’intéresse particulièrement au développement logiciel et à la création de solutions informatiques utiles.
 ---
 
 ## 🛠️ Technologies & Outils
