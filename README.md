@@ -15,7 +15,7 @@
 ## 👩‍💻 À propos de moi
 
 ```yaml
-name: "GARANE Farida Anne Kevine"
+name: "Farida Anne Kevine GARANE"
 location: "Burkina Faso 🇧🇫"
 field: "Informatique et développement logiciel"
 ```
